@@ -22,6 +22,10 @@ You can build this project using your IDE's build system or via the command line
 javac -source 1.8 -target 1.8 src/*.java
 ```
 
+You can find more interest things in my blog !
+
+[Antarctica Blog](https://antarctica000.github.io/)
+
 ## 拼图游戏 - Java
 
 #### 1. 项目描述
@@ -42,3 +46,7 @@ javac -source 1.8 -target 1.8 src/*.java
 
 ```bash
 javac -source 1.8 -target 1.8 src/*.java
+```
+
+更详细有趣的内容在我的博客里，欢迎访问！
+[Antarctica Blog](https://antarctica000.github.io/)
